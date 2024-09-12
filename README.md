@@ -31,7 +31,7 @@ Check out the live demo of MERN Estate Application [here](https://mern-estate-r2
 - **Express**: Web framework for Node.js to build API endpoints
 - **Node.js**: JavaScript runtime for server-side development
 
-- ## Installation
+## Installation
 
 1. **Clone the repository:**
    ```sh
