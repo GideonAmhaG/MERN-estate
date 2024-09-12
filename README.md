@@ -12,7 +12,7 @@ Check out the live demo of MERN Estate Application [here](https://mern-estate-r2
 - Advanced search functionality with filters and sorting
 - CRUD operations for real estate listings
 - Integration with MongoDB for data storage
-- State management with Redux and persistent state using `redux-persist`
+- Comprehensive state management with Redux Toolkit and persistent state using `redux-persist`
 - Firebase integration for additional services
 - Responsive UI with Tailwind CSS
 - API endpoints for user and listing management
