@@ -57,7 +57,7 @@ Check out the live demo of MERN Estate Application [here](https://mern-estate-r2
    JWT_SECRET=your_jwt_secret
    MONGO=mongodb+srv://username:password@cluster.mongodb.net/dbname?retryWrites=true&w=majority
    ```
-   -In the client directory, create a .env file and add the following environment variable:
+   - In the client directory, create a .env file and add the following environment variable:
    ```sh
    VITE_FIREBASE_API_KEY=your_firebase_api_key
    ```
