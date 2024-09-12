@@ -74,3 +74,11 @@ Check out the live demo of MERN Estate Application [here](https://mern-estate-r2
       cd client
       npm run dev
       ```
+
+## Authors
+
+Gideon Amha Gebremedhin - [Github](https://github.com/GideonAmhaG) | [X](https://x.com/GideonAmha)
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
