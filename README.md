@@ -46,9 +46,20 @@ Check out the live demo of MERN Estate Application [here](https://mern-estate-r2
    cd ..
    
 3. **Set up MongoDB:**
-
    Ensure you have MongoDB installed and running. You can download it from mongodb.com.
-
-
+   
+4. **Set up Firebase:**
+   Create a Firebase project and obtain your Firebase configuration.
+   
+5. **Create .env files:**
+   - In the root directory, create a .env file and add the following environment variables:
+   ```sh
+   JWT_SECRET=your_jwt_secret
+   MONGO=mongodb+srv://username:password@cluster.mongodb.net/dbname?retryWrites=true&w=majority
+   ```
+   -In the client directory, create a .env file and add the following environment variable:
+   ```sh
+   VITE_FIREBASE_API_KEY=your_firebase_api_key
+   ```
 
    
