@@ -17,3 +17,16 @@ Check out the live demo of MERN Estate Application [here](https://mern-estate-r2
 - Responsive UI with Tailwind CSS
 - API endpoints for user and listing management
 - Environment variable configuration for sensitive data
+
+## Technologies Used
+
+- **React**: JavaScript library for building user interfaces
+- **Vite**: Fast build tool for modern web projects
+- **Tailwind CSS**: Utility-first CSS framework for rapid UI development
+- **ESLint**: Linter for identifying and fixing JavaScript code issues
+- **Redux Toolkit**: State management library for efficient and scalable state management
+- **redux-persist**: Library for persisting Redux state across sessions
+- **Firebase**: Platform for building web and mobile applications
+- **MongoDB**: NoSQL database for storing application data
+- **Express**: Web framework for Node.js to build API endpoints
+- **Node.js**: JavaScript runtime for server-side development
