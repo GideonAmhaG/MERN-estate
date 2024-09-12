@@ -46,7 +46,6 @@ Check out the live demo of MERN Estate Application [here](https://mern-estate-r2
    cd ..
    
 3. **Set up MongoDB:**
-   ```sh
    Ensure you have MongoDB installed and running. You can download it from mongodb.com.
 
 
