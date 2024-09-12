@@ -30,3 +30,19 @@ Check out the live demo of MERN Estate Application [here](https://mern-estate-r2
 - **MongoDB**: NoSQL database for storing application data
 - **Express**: Web framework for Node.js to build API endpoints
 - **Node.js**: JavaScript runtime for server-side development
+
+- ## Installation
+
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/GideonAmhaG/MERN-estate.git
+   cd MERN-estate
+
+2. **Install dependencies:**
+   ```sh
+   npm install
+   cd client
+   npm install
+   cd ..
+
+   
