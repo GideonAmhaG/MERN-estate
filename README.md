@@ -13,3 +13,4 @@ Check out the live demo of MERN Estate Application [here](https://mern-estate-r2
 - Integration with MongoDB for data storage
 - API endpoints for user and listing management
 - Environment variable configuration for sensitive data
+- State management with Redux
