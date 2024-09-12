@@ -8,7 +8,7 @@ Check out the live demo of MERN Estate Application [here](https://mern-estate-r2
 
 ## Features
 
-- User authentication and authorization
+- User authentication and authorization (including Google Sign-In)
 - CRUD operations for real estate listings
 - Integration with MongoDB for data storage
 - API endpoints for user and listing management
