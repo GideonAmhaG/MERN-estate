@@ -49,7 +49,7 @@ Check out the live demo of MERN Estate Application [here](https://mern-estate-r2
    Set up a MongoDB cluster on [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) and obtain your connection string.
    
 4. **Set up Firebase:**
-   Create a Firebase project and obtain your Firebase configuration.
+   Create a Firebase project on [Firebase Console](https://console.firebase.google.com/) and obtain your Firebase configuration.
    
 5. **Create .env files:**
    - In the root directory, create a .env file and add the following environment variables:
