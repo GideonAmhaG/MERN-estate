@@ -64,3 +64,13 @@ Check out the live demo of MERN Estate Application [here](https://mern-estate-r2
 6. **Install Tailwind Autoprefixer:**
    Ensure Autoprefixer is installed and make the necessary adjustments as described in the [Tailwind CSS Vite guide](https://tailwindcss.com/docs/guides/vite).
    
+7. **Start the development servers:**
+   - Start the backend server:
+      ```sh
+      npm run dev
+      ```
+   - Start the frontend server:
+      ```sh
+      cd client
+      npm run dev
+      ```
