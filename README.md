@@ -14,3 +14,4 @@ Check out the live demo of MERN Estate Application [here](https://mern-estate-r2
 - API endpoints for user and listing management
 - Environment variable configuration for sensitive data
 - State management with Redux
+- Firebase integration for additional services
