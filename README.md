@@ -46,7 +46,7 @@ Check out the live demo of MERN Estate Application [here](https://mern-estate-r2
    cd ..
    
 3. **Set up MongoDB:**
-   Ensure you have MongoDB installed and running. You can download it from mongodb.com.
+   Set up a MongoDB cluster on [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) and obtain your connection string.
    
 4. **Set up Firebase:**
    Create a Firebase project and obtain your Firebase configuration.
