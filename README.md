@@ -61,5 +61,6 @@ Check out the live demo of MERN Estate Application [here](https://mern-estate-r2
       ```sh
       VITE_FIREBASE_API_KEY=your_firebase_api_key
       ```
-
+6. **Install Tailwind Autoprefixer:**
+   Ensure Autoprefixer is installed and make the necessary adjustments as described in the [Tailwind CSS Vite guide](https://tailwindcss.com/docs/guides/vite).
    
